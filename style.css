@@ -1,0 +1,40 @@
+#inbox{
+  margin: 40px auto 0 auto;
+}
+#section-inner{
+  width: 100%  !important;
+}
+.question-text-box p{
+  font-size: 18px;
+  font-weight: light;
+}
+#next-button{
+  width: 120px;
+  float: right;
+}
+#previous-button{
+  width: 120px;
+  float: left;
+}
+.clear{
+  clear: both;
+}
+.number-button{
+  width: 20px !important;
+}
+#admin-login-button-div{
+  margin-top: 10px;
+}
+#admin-login-button-div a{
+  width: 20px;
+}
+#delete-question-button{
+  float: right;
+}
+.add-del-button{
+  margin: 5px;
+}
+#loader-gif{
+  margin: 0 auto;
+  display: none;
+}
